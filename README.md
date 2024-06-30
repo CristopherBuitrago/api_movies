@@ -73,6 +73,7 @@ Contributions are what make the open source community such an amazing place to l
 ## 🌐 Link of the page
 
 Visit the live project [here](https://cristopherbuitrago.github.io/movies_page/).
+Visit the deploy page: https://the-movie-play.netlify.app
 
 ---
 
